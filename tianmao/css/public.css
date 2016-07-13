@@ -1,0 +1,14 @@
+body,h1,h2,h3,h4,h5,h6,ul,li,input{
+margin:0;
+padding:0;
+list-style:none;/*清除列表标签小圆点*/
+font-family:"微软雅黑","Arial";
+}
+a{
+color:#333;
+text-decoration:none;
+}
+/*图片被a标签包裹时，在ie浏览器下会产生边框*/
+img{
+border:none;/*去除边框*/
+}
